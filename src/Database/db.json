@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Nitesh",
+      "username": "niteshcoolonline@gmail.com",
+      "email": "niteshcoolonline@gmail.com",
+      "phone": "9355011311",
+      "id": 2
+    },
+    {
+      "name": "Dipesh",
+      "username": "niteshcoolonline",
+      "email": "dipesh@gmail.com",
+      "phone": "9996184937",
+      "id": 3
+    }
+  ]
+}
